@@ -1,0 +1,26 @@
+
+.btn{
+    background-color: rgb(152, 95, 160);
+    padding: 10px;
+    box-shadow:1%;
+    font-size: medium;  
+    border-radius: 100rcap;
+    border:ridge;
+}
+.sec{
+    background-color: rgb(32, 209, 209);
+    background-position-x:left;
+     width: 300px;
+     padding: 10px;
+     border:solid;
+     border-width: 1px;
+     border-radius: 10rcap;
+     border-color: rgb(47, 255, 196);
+     padding: 30px;
+     background-image: url("desktop-wallpaper-backgrounds-for-login-page-login-page.jpg");
+
+    
+}
+.bi{
+    background-image: url("desktop-wallpaper-backgrounds-for-login-page-login-page.jpg");
+}
